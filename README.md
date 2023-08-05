@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpyMinou
-- 👀 I’m interested in AI (Artificial intelligence) and cyber-security
+- 👀 I’m interested in AI (Artificial intelligence) and web developpement
 - 🌱 I’m currently learning tensor-flow, and planning to learn more in the future
 - 📫 You can reach me by my email : aymenhm34@gmail.com 
 
