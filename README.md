@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 👋
 ## 👩‍💻 About me
-Hello! I am a final year postgraduate student specializing in Artificial Intelligence and Backend Web Development. I have a solid foundation in Python, big data, and machine learning, and have practical experience developing web applications, data analytics, and AI-powered solutions. My projects often intersect with many different disciplines, from healthcare technology to advanced data visualization.
+Hello! I am Aymen, a final year postgraduate student specializing in Artificial Intelligence and Backend Web Development. I have a solid foundation in Python, big data, and machine learning, and have practical experience developing web applications, data analytics, and AI-powered solutions. My projects often intersect with many different disciplines, from healthcare technology to advanced data visualization.
 
 ## 📝 What am I doing?
 - **AI & Machine Learning:** I develop and implement machine learning models for a variety of applications including revenue forecasting, clustering, and AI-powered gaming.
@@ -15,6 +15,15 @@ Hello! I am a final year postgraduate student specializing in Artificial Intelli
 - **Scientific Computing with Python** from FreeCodeCamp
 - **Responsive Web Design** from FreeCodeCamp
 - **JavaScript Algorithms and Data Structures** from FreeCodeCamp
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aymen-hadj-mebarek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen-hadj-mebarek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+# 💻 Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -74,7 +83,7 @@ Hello! I am a final year postgraduate student specializing in Artificial Intelli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="illustrator logo"  />
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <div align="left">
   <a href="aymenhm34@gmail.com" target="_blank">
@@ -91,11 +100,16 @@ Hello! I am a final year postgraduate student specializing in Artificial Intelli
   </a>
 </div>
 
+###
 
 <br clear="both">
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdrbWVzbXhpczZkMHRnaWdiNzFkeG1zNG41NjhsY3VqdmN2enIwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llmbmfvWgRw6nG31wl/giphy.webp"  />
 
-# 📊 GitHub Stats:
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aymen-hadj-mebarek/aymen-hadj-mebarek/output/snake.svg" alt="Snake animation" />
 
 ###
