@@ -222,7 +222,7 @@ Hello! I am Aymen, a final year postgraduate student specializing in Artificial 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aymen-hadj-mebarek/aymen-hadj-mebarek/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/aymen-hadj-mebarek/aymen-hadj-mebarek/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
